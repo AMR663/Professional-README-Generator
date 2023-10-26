@@ -69,12 +69,13 @@ function init() {
         output += `\r\n`;
 
         if (answers['License'] == 'MIT') {
-
+            output += '[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)';
         }
         else if (answers['License'] == 'GPL') {
-
+            output += '[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)';
         }
-
+        output += `\r\n`;
+        output += `\r\n`;
         output += `#Questions`;
         output += `\r\n`;
         output += answers['Questions'];
@@ -82,7 +83,7 @@ function init() {
 
 
 
-        writeToFile("README2.md", output);
+        writeToFile("README.md", output);
     });
 }
 
