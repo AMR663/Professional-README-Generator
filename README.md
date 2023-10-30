@@ -12,20 +12,20 @@ generates readme
 [Tests](#tests)
 [Questions](#questions)
 
-##Installation
+## Installation
 none
 
-##Usage
+## Usage
 none
 
-##Contributing
+## Contributing
 undefined
 
-##Tests
+## Tests
 none
 
-##License
+## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-#Questions
+## Questions
 AMR663https://github.com/AMR663randolla66@gmail.com
