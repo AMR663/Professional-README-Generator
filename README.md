@@ -1,9 +1,9 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## ReadMe generator
+## readme generator
 
 ## Description
-generates ReadMe
+generates readme
 
 ## Table of contents
 [Installation](#installation)
@@ -12,20 +12,20 @@ generates ReadMe
 [Tests](#tests)
 [Questions](#questions)
 
-#Installation
-None
+##Installation
+none
 
-#Usage
-None
+##Usage
+none
 
-#Contributing
+##Contributing
 undefined
 
-#Tests
-None
+##Tests
+none
 
-#License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+##License
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 #Questions
-AMR662https://github.com/AMR663randolla66@gmail.com
+AMR663https://github.com/AMR663randolla66@gmail.com

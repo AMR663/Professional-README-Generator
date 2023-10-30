@@ -45,27 +45,27 @@ function init() {
         output += `[Questions](#questions)`;
         output += `\r\n`;
         output += `\r\n`;
-        output += `#Installation`;
+        output += `##Installation`;
         output += `\r\n`;
         output += answers['Installation'];
         output += `\r\n`;
         output += `\r\n`;
-        output += `#Usage`;
+        output += `##Usage`;
         output += `\r\n`;
         output += answers['Usage'];
         output += `\r\n`;
         output += `\r\n`;
-        output += `#Contributing`;
+        output += `##Contributing`;
         output += `\r\n`;
         output += answers['Contributing'];
         output += `\r\n`;
         output += `\r\n`;
-        output += `#Tests`;
+        output += `##Tests`;
         output += `\r\n`;
         output += answers['Tests'];
         output += `\r\n`;
         output += `\r\n`;
-        output += `#License`;
+        output += `##License`;
         output += `\r\n`;
 
         if (answers['License'] == 'MIT') {
