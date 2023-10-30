@@ -1,9 +1,9 @@
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## readme genertor
+## ReadMe Generator
 
 ## Description
-generates readme
+Generates a ReadMe
 
 ## Table of contents
 [Installation](#installation)
@@ -13,16 +13,16 @@ generates readme
 [Questions](#questions)
 
 ## Installation
-none
+None
 
 ## Usage
-noen
+Answer the questions in the termanal to generate a professional ReadMe
 
 ## Contributing
-noen
+None
 
 ## Tests
-none
+None
 
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
