@@ -42,7 +42,17 @@ module.exports = {
         {
             type:'input',
             name:'Questions',
-            message:'Would you like to add Questions?',
+            message:'GitHub Useername',
+        },
+        {
+            type:'input',
+            name:'Questions2',
+            message:'GitHub Link',
+        },
+        {
+            type:'input',
+            name:'Questions3',
+            message:'Personal Email link',
         }
     ]
 };

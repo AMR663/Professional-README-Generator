@@ -3,7 +3,7 @@
 ## ReadMe generator
 
 ## Description
-Generates a ReadMe file based on user inputs
+generates ReadMe
 
 ## Table of contents
 [Installation](#installation)
@@ -16,7 +16,7 @@ Generates a ReadMe file based on user inputs
 None
 
 #Usage
-Answer the questions in termanal and it will create a new ReadMe file
+None
 
 #Contributing
 undefined
@@ -28,4 +28,4 @@ None
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 #Questions
-No
+AMR662https://github.com/AMR663randolla66@gmail.com

@@ -79,6 +79,8 @@ function init() {
         output += `#Questions`;
         output += `\r\n`;
         output += answers['Questions'];
+        output += answers['Questions2'];
+        output += answers['Questions3'];
      
 
 
