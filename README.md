@@ -1,9 +1,9 @@
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## ReadMe Generator
+## Professional ReadMe generator
 
 ## Description
-Generates a ReadMe
+A customizable readme at you fingertips! no more do you have to worry about your readme file being formatted incorrectly or not having the proper licensing information its all here for you. just answer the prompts and the rest is done for you.
 
 ## Table of contents
 [Installation](#installation)
@@ -16,7 +16,7 @@ Generates a ReadMe
 None
 
 ## Usage
-Answer the questions in the termanal to generate a professional ReadMe
+Enter your desired format into the propmts through the terminal and it will automaticly create a new Readme file.
 
 ## Contributing
 None
@@ -25,7 +25,7 @@ None
 None
 
 ## License
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Questions
 https://github.com/AMR663
